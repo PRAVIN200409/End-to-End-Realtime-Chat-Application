@@ -1,0 +1,9 @@
+Frontend/.env
+Backend/.env
+
+node_modules/
+dist/
+.env.local
+.DS_Store
+.idea/
+.vscode/
