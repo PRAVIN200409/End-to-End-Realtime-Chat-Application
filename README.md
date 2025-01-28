@@ -2,7 +2,7 @@
 
 A full-stack realtime chat application built with the MERN stack (MongoDB, Express, React, Node.js), featuring user authentication, theme customization, and real-time messaging capabilities.
 
-![Chat App Demo](https://via.placeholder.com/800x400.png?text=Chat+App+Demo+Preview) *Replace with actual screenshot*
+![Chat App Demo](Chat-Application.png) 
 
 ## 🌟 Features
 
